@@ -1,0 +1,2 @@
+# djiango
+study django
